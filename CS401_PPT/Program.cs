@@ -10,6 +10,7 @@ namespace CS401_PPT
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello");
         }
     }
 }
